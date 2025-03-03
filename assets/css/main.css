@@ -752,7 +752,7 @@ input, select, textarea {
 				}
 
 					.row > * {
-						padding: 25px 0 0 25px;
+						padding: 1px 0 0 25px;
 					}
 
 					.row.gtr-uniform {
@@ -2325,7 +2325,7 @@ input, select, textarea {
 				}
 
 			footer {
-				margin: 2.5em 0 0 0;
+				margin: 3em 0 0 0;
 			}
 
 				footer > p {
